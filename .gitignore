@@ -1,0 +1,11 @@
+# ignore default folders
+examples/
+libraries/
+modes/
+NOC/
+templates/
+tools/
+
+# ignore all the single frame files
+*frame*.png
+*frame*.jpeg
